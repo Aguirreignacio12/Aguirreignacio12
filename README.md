@@ -1,6 +1,6 @@
 # Ignacio Aguirre — Software Engineer
 
-**Buenos Aires, Argentina · Trabajo remoto · Español e inglés**
+**Tapalqué, provincia de Buenos Aires, Argentina · Trabajo remoto · Español e inglés**
 
 Diseño y desarrollo productos de punta a punta, con el stack que cada proyecto necesita.
 Empecé a programar en 2019 y hoy uso IA como parte del proceso de construir software, no como
@@ -48,7 +48,7 @@ performance medidas, no asumidas
 
 <br>
 
-Software Engineer based in Buenos Aires, Argentina, working remotely with teams across Argentina,
+Software Engineer based in Tapalqué, Buenos Aires Province, Argentina, working remotely with teams across Argentina,
 Spain and Peru. I build end-to-end products — web, desktop and offline — picking the stack the
 product needs, plus AI-driven automation and integrations.
 
