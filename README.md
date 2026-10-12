@@ -13,7 +13,7 @@ del problema.
 Hoy en **ACME**, un equipo de ingeniería que entrega productos y automatización con IA en semanas,
 no meses.
 
-🌐 **[ignacioaguirre.io](https://ignacioaguirre.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/ignacioaguirre-dev/)
+🌐 **[ignacioaguirre.dev](https://ignacioaguirre.dev)** · 💼 [LinkedIn](https://www.linkedin.com/in/ignacioaguirre-dev/)
 
 ---
 
@@ -27,7 +27,7 @@ en vez de repos que no puedo mostrar, acá está lo que sí:
   que diseñé y llevé a producción. El código vive en un repo privado; esto es el artefacto público
   de que existe y se distribuye.
 
-Si querés ver cómo trabajo, [el sitio](https://ignacioaguirre.io) cuenta el proceso y dónde lo
+Si querés ver cómo trabajo, [el sitio](https://ignacioaguirre.dev) cuenta el proceso y dónde lo
 apliqué. Y si querés el detalle de un problema puntual, escribime y te lo cuento.
 
 ---
